@@ -1,27 +1,7 @@
 # 2021.1-MusikCity
-
-![](img/musikCity.png)
-
-<br> <br/>
-
-## Sobre o Projeto
-Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília, no semestre de 2021.1. Nosso objetivo é analisar o site da produtora musical MusikCity, de acordo com os assuntos abordados durante todo o semestre. 
-
-## Sobre o site escolhido
-O site [MusikCity](https://musikcity.mus.br/) foi o escolhido para o projeto. No geral, o site promove a divulgação de serviços no meio musical como arranjos e gravações, além de indicar novos talentos como cantores, bandas, compositores e letristas de todas as idades. O site também promove a distribuição de canais de rádios e TV.
-
-## Wiki
-
-Na nossa [wiki](...) estão dispostas todas as informações sobre o projeto, assim como as metodologias e análises
-feitas pela equipe. 
-
-
-### Equipe
-
-Integrante      |Matrícula |GitHub
---------------  |----------|------
-Arthur Sousa    |19/0010606|art-42
-Eduarda Tavares |17/0140717|erteduarda
-Mariana Rio     |19/0058455|MarianaPRio
-Pedro Hinrique  |19/0036435|Peh099
-
+![image](https://user-images.githubusercontent.com/70337717/129640060-6558c47a-7e7c-468d-8399-4e5d91dcee0d.png)
+## Objetivos do projeto
+A partir de uma analise minunciosa de alguns sites da web foi escolhido o site "MusikCity" para que pudesse ser realizada uma avaliação do site. O projeto tem como objetivo o apronfudamento dos conceitos relacionados ao quis diz respeito a Interação-Humano-Computador relacionada ao site em questão. Para alcançar esse objetivo será feito um planejamento de avaliação do site, assim como serão identificadas as necessidades dos usuários, afim de encontrar possiveis falhas de usabilidade, podendo assim apontar possiveis soluções. Com isso poderá-se ter um aproveitamento aperfeiçoado dos conceitos teoricos aprendidos durante a disciplina.
+## Sobre o MusikCity
+O "MusikCity" é um site voltado para amantes da música. Esse público vai desde artistas musicais que buscam contato para gravações de músicas aos próprios ouvintes que buscam um lugar para acompanhar a parada de sucesso ou ouvir rádios ao vivo. 
+## Equipe
