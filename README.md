@@ -12,7 +12,7 @@ O site [MusikCity](https://musikcity.mus.br/) foi o escolhido para o projeto. No
 
 ## Wiki
 
-Na nossa [wiki](...) estão dispostas todas as informações sobre o projeto, assim como as metodologias e análises
+Na nossa [wiki](https://interacao-humano-computador.github.io/2021.1-MusikCity/) estão dispostas todas as informações sobre o projeto, assim como as metodologias e análises
 feitas pela equipe. 
 
 
