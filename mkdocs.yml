@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: MusikCity
 repo_url: https://github.com/Interacao-Humano-Computador/2021.1-MusikCity
 repo_name: ""
 
@@ -16,3 +16,4 @@ extra_css:
 nav:
   - Inicio: index.md
   - Planejamento: planejamento.md
+  - Apresentação: apresentacao.md
