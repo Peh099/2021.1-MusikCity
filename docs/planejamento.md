@@ -61,6 +61,6 @@ SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Compu
 ## 7. Versionamento
 Versão|Data      |Modificação        |Autor
 ------|----------|-------------------|--------
-1.0   |16/08/2021|Criação do site    | Eduarda Tavares
+1.0   |16/08/2021|Criação da wiki    | Eduarda Tavares
 1.1   |17/08/2021|Adição do conteúdo | Mariana Rio e Eduarda Tavares
 
