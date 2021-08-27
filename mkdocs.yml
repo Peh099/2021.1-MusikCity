@@ -14,4 +14,5 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Sobre: https://github.com/Interacao-Humano-Computador/2021.1-MusikCity/tree/wiki/docs
+  - Inicio: index.md
+  - Planejamento: planejamento.md
